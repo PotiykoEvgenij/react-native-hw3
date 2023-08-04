@@ -10,8 +10,8 @@ export default function App() {
     <View style={styles.container}>
       {/* <Text>Мій додаток React native!</Text> */}
       {/* <RegistrationScreen /> */}
-      {/* <LoginScreen /> */}
-      <PostsScreen />
+      <LoginScreen />
+      {/* <PostsScreen /> */}
       <StatusBar style="auto" />
     </View>
   );
